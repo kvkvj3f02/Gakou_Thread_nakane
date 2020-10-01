@@ -1,0 +1,52 @@
+body{
+	background-color: #000;
+}
+
+h1 {
+	text-align:  center;
+	color: #B1B1FF; 
+}
+
+.th_cre{
+	width: 540px;
+	height: 350px;
+	background-color: #fff;
+	margin: 10px;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+#meat{
+	border-radius: 50%;
+	width: 128px;
+	height: 128px;
+}
+
+#th_tit{
+	font-size: 20px;
+}
+
+.cp_iptxt {
+	position: relative;
+	width: 80%;
+	margin: 40px 3%;
+}
+.cp_iptxt input[type='text'] {
+	font: 15px/24px sans-serif;
+	box-sizing: border-box;
+	width: 23;
+	padding: 0.3em;
+	transition: 0.3s;
+	letter-spacing: 1px;
+	color: #aaaaaa;
+	border: none;
+	border-bottom: 2px solid #eee;
+	background: transparent;
+}
+.ef input[type='text']:focus {
+	border-bottom: 2px solid #da3c41;
+	outline: none;
+}
+.sub{
+	text-align:  center;
+}

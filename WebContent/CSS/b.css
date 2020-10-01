@@ -1,0 +1,11 @@
+body {
+	background-color: #000000; 
+}
+
+.th_cre {
+	text-align:  center;
+	color: #ffffff; 
+	background-color: #444444;
+	padding: 15px;
+	border-radius: 10px;
+}
